@@ -1,4 +1,4 @@
-### About me
+### 👋 About me
 Hello! I am Jun from South Korea, based in London. </br>
 I am a self-taught passionate Full-Stack developer and eager to learn more! </br>
 
