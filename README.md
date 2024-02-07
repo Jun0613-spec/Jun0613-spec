@@ -2,7 +2,7 @@
 Hello! I am Jun from South Korea, based in London. </br>
 I am a self-taught passionate Full-Stack developer and eager to learn more! </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jun-young-park-220bb4229/)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun0613-spec%2FJun0613-spec&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%2361DAFB&title=React&edge_flat=false"/></a>
 
 
 
