@@ -2,7 +2,8 @@
 Hello! I am Jun from South Korea, based in London. </br>
 I am a self-taught passionate Full-Stack developer and eager to learn more! </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jun%20Young%20Park-blue?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jun-young-park-220bb4229/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jun-young-park-220bb4229/)
+
 
 
 <!--
