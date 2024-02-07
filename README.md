@@ -2,7 +2,7 @@
 Hello! I am Jun from South Korea, based in London.
 I am a self-taught passionate Full-Stack developer and eager to learn more!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jun%20Young%20Park-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jun-young-park-220bb4229/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jun%20Young%20Park-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jun-young-park-220bb4229/)
 
 <!--
 **Jun0613-spec/Jun0613-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
