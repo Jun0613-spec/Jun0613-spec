@@ -9,7 +9,7 @@ I am a self-taught passionate Full-Stack developer and eager to learn more! </br
 
 ### 💻 Tech Stack
 
-**Front-End:** 
+**Front-End** </br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
