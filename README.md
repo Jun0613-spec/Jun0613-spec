@@ -1,6 +1,7 @@
 ### 👋 About me
 Hello! I'm Jun, a passionate Full-Stack Developer from South Korea, currently based in London. </br>
-I'm a self-taught developer with a strong drive to learn and grow in the tech industry. I thrive on building scalable, user-friendly applications and solving complex problems through code. </br>
+I'm a self-taught developer with a strong drive to learn and grow in the tech industry. </br>
+I thrive on building scalable, user-friendly applications and solving complex problems through code. </br>
 
 <a href="https://www.linkedin.com/in/jun-young-park-220bb4229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://portfolio-v2-hazel-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=svg&logoColor=white"/></a>
